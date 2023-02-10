@@ -1,0 +1,1 @@
+cmd='/opt/cmake-nvhpc/bin/cmake;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
